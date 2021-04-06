@@ -5,6 +5,7 @@ import streamlit as st
 import datetime
 import json
 import base64
+import plotly
 import plotly.express as px
 from tabulate import tabulate
 from plotly.subplots import make_subplots
