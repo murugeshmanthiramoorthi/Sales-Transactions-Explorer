@@ -27,8 +27,8 @@ def load_lottiefile(filepath: str):
 
 
 lottie_url = "https://assets5.lottiefiles.com/packages/lf20_yzoqyyqf.json"
-lottie_json = load_lottieurl(lottie_url)
-st_lottie(lottie_json, height=320)
+# lottie_json = load_lottieurl(lottie_url)
+# st_lottie(lottie_json, height=320)
 
 
 """
