@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import requests
-from streamlit_lottie import st_lottie
 import streamlit as st
 import datetime
 import json
